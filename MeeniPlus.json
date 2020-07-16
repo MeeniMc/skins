@@ -1,7 +1,10 @@
 {
   "player_name": "MeeniPlus",
-  "model_preference": ["slim"],
+  "model_preference": ["slim","default","cape","default_dynamic"],
   "skins": {
-    "slim": "30432"
+    "slim": "30432",
+    "default": "30432",
+    "cape": "30432",
+    "default_dynamic": "1000,30432,30432"
   }
 }
